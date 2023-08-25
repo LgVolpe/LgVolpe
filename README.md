@@ -15,8 +15,6 @@
 
 ### Eu já trabalhei com... 🔧
 
-**Tecnologias e Ferramentas**
-
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,7 +44,6 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <div>
 <a href="https://github.com/LgVolpe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LgVolpe&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LgVolpe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
