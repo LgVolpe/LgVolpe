@@ -1,4 +1,4 @@
-# Oi, me chamo [Luis Guilherme Volpe] 👋
+# Olá, me chamo Luis Guilherme Volpe
 
 ### Sobre mim
 
@@ -9,7 +9,7 @@
 
 🎓 Eu estudo | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
 
-🔎 Também sou curioso sobre [Temas que você gosta]
+🔎 Também sou curioso sobre tecnologias de Front-End
 
 ✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
 
@@ -44,6 +44,11 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <div>
 <a href="https://github.com/LgVolpe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LgVolpe&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+### Entre em contato comigo! 📭
+<div>
+<a href="https://www.linkedin.com/in/luis-guilherme-volpe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <!--
