@@ -9,9 +9,6 @@
 
 🎓 Eu estudo | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
 
-🔎 Também sou curioso sobre tecnologias de Front-End
-
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
 
 ### Eu já trabalhei com... 🔧
 
@@ -27,7 +24,7 @@
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
-### Eu estou estudando... 🧩
+### Eu estou estudando... 
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -46,7 +43,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LgVolpe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Entre em contato comigo! 📭
+### Entre em contato comigo!
 <div>
 <a href="https://www.linkedin.com/in/luis-guilherme-volpe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
