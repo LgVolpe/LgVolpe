@@ -4,7 +4,6 @@
 
 
 Olá! Eu sou um Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas. Atualmente, sou aluno da Cubos Academy no curso de Desenvolvimento de Software Back-end.
-Acredito no poder da programação como uma ferramenta transformadora da tecnologia, capaz de criar soluções inovadoras e causar um impacto positivo na vida das pessoas.
 #
 
 
