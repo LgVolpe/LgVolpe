@@ -1,6 +1,6 @@
 # Luis Guilherme Volpe 
 
-**`💻 Desenvolvedor de Software Back-End`**
+**`💻 Desenvolvedor de Software `**
 
 
 Olá! Eu sou um Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas.
