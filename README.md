@@ -3,7 +3,7 @@
 **`💻 Desenvolvedor de Software Back-End`**
 
 
-Olá! Eu sou um Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas. Atualmente, sou aluno da Cubos Academy no curso de Desenvolvimento de Software Back-end.
+Olá! Eu sou um Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas.
 #
 
 
