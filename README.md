@@ -3,7 +3,7 @@
 **`💻 Desenvolvedor de Software `**
 
 
-Olá! Eu sou um Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor backend com 3 anos de experiência acadêmica, incluindo graduação, pós-graduação e bootcamp. Possuo habilidades em desenvolvimento de sistemas, APIs RESTful, CRUDs, modelagem de bancos de dados e criptografia, utilizando ferramentas como JavaScript, Node.js, PHP e SQL. Experiência em metodologias ágeis (Scrum e Kanban) e atualmente focado em microsserviços, Docker e AWS.
 #
 
 
