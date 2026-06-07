@@ -1,16 +1,16 @@
 # Luis Guilherme Volpe 
 
-**`💻 Desenvolvedor de Software `**
+**` `**
 
 
-Desenvolvedor backend com 3 anos de experiência acadêmica, incluindo graduação, pós-graduação e bootcamp. Possuo habilidades em desenvolvimento de sistemas, APIs RESTful, CRUDs, modelagem de bancos de dados e criptografia, utilizando ferramentas como JavaScript, Node.js, PHP e SQL. Experiência em metodologias ágeis (Scrum e Kanban) e atualmente focado em microsserviços, Docker e AWS.
+
 #
 
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-### Tecnologias que utilizo
+### 
 
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
